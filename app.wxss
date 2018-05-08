@@ -67,30 +67,6 @@
     height: 110rpx;
 }
 
-.icon-ball {
-    background: url(https://coding.it919.cn/static/images/ball.png) center no-repeat;
-}
-
-.active .icon-ball-active {
-    background: url(https://coding.it919.cn/static/images/ball-active.png) center no-repeat;
-}
-
-.icon-news {
-    background: url(https://coding.it919.cn/static/images/news.png) center no-repeat;
-}
-
-.active .icon-news-active {
-    background: url(https://coding.it919.cn/static/images/news-active.png) center no-repeat;
-}
-
-.icon-rank {
-    background: url(https://coding.it919.cn/static/images/rank.png) center no-repeat;
-}
-
-.active .icon-rank-active {
-    background: url(https://coding.it919.cn/static/images/rank-active.png) center no-repeat;
-}
-
 .footer .active {
     color: #00AA98;
 }
